@@ -1,7 +1,7 @@
 # Starter Web Project
 This is a simple website project for showing how to use Git and Github together. Here's some more text, and even more!
 ## Introduction
-This is an example to show different parts of the Git repository and various commands using a web project.
+This is an example to show different parts of the Git repository and various commands using a web project. Emergency fix.
 ## Purpose
 As stated above, the main purpose is to provide simple examples for Git training videos.
 ## Deployment
