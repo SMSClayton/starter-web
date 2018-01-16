@@ -1,2 +1,3 @@
 testForIgnore.txt
 log/
+*.orig
