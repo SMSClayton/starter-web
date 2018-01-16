@@ -1,2 +1,2 @@
 testForIgnore.txt
-*.log
+log/
